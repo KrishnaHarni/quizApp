@@ -1,6 +1,8 @@
 # 🎯 Quiz App using Trivia DB API
 
-Welcome to the Quiz App! This web-based application fetches trivia questions from the [Trivia DB API](https://opentdb.com/api_config.php) and allows users to test their knowledge.
+Welcome to the Quiz App! This web-based application fetches trivia questions from the [Trivia DB API](https://opentdb.com/api_config.php) and allows users to test their knowledge. <br/>
+
+## 🔗 [Live Demo](https://appquiztime.netlify.app/)
 
 ## 🚀 Features
 
